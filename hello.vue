@@ -18,6 +18,7 @@
                 
             }
         },
+        
         computed: {
             name() {
                 return this.data 
